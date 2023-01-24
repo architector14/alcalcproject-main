@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1EFC7804-99B9-4CEA-831B-5F91CAEECAAB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1EFC7804-99B9-4CEA-831B-5F91CAEECAAB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>alcalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>alcalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build alcalc</string>
+			<key>timeStartedRecording</key>
+			<real>674167852.257442</real>
+			<key>timeStoppedRecording</key>
+			<real>674167858.18180203</real>
+			<key>title</key>
+			<string>Build alcalc</string>
+			<key>uniqueIdentifier</key>
+			<string>1EFC7804-99B9-4CEA-831B-5F91CAEECAAB</string>
+		</dict>
+		<key>23179399-7B07-435A-BCF8-4E435C6858A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>23179399-7B07-435A-BCF8-4E435C6858A2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>alcalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>alcalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build alcalc</string>
+			<key>timeStartedRecording</key>
+			<real>674168303.44264102</real>
+			<key>timeStoppedRecording</key>
+			<real>674168306.19117904</real>
+			<key>title</key>
+			<string>Build alcalc</string>
+			<key>uniqueIdentifier</key>
+			<string>23179399-7B07-435A-BCF8-4E435C6858A2</string>
+		</dict>
+		<key>58978871-2E83-4CB4-8A78-C729667FF9FC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>58978871-2E83-4CB4-8A78-C729667FF9FC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>alcalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>alcalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build alcalc</string>
+			<key>timeStartedRecording</key>
+			<real>674168799.80778301</real>
+			<key>timeStoppedRecording</key>
+			<real>674168801.11408103</real>
+			<key>title</key>
+			<string>Build alcalc</string>
+			<key>uniqueIdentifier</key>
+			<string>58978871-2E83-4CB4-8A78-C729667FF9FC</string>
+		</dict>
+		<key>8ED888E9-55E6-4514-9389-50B88B08053A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8ED888E9-55E6-4514-9389-50B88B08053A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>alcalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>alcalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews alcalc</string>
+			<key>timeStartedRecording</key>
+			<real>674168847.02871895</real>
+			<key>timeStoppedRecording</key>
+			<real>674168851.54587495</real>
+			<key>title</key>
+			<string>Build for Previews alcalc</string>
+			<key>uniqueIdentifier</key>
+			<string>8ED888E9-55E6-4514-9389-50B88B08053A</string>
+		</dict>
+		<key>BDA68CFA-1E13-4733-B1AA-7F010C6BDE05</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BDA68CFA-1E13-4733-B1AA-7F010C6BDE05.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>alcalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>alcalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews alcalc</string>
+			<key>timeStartedRecording</key>
+			<real>674168874.62356198</real>
+			<key>timeStoppedRecording</key>
+			<real>674168875.49978602</real>
+			<key>title</key>
+			<string>Build for Previews alcalc</string>
+			<key>uniqueIdentifier</key>
+			<string>BDA68CFA-1E13-4733-B1AA-7F010C6BDE05</string>
+		</dict>
+		<key>C76EC5EE-0BE9-4C38-A005-8E898687F59B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C76EC5EE-0BE9-4C38-A005-8E898687F59B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>alcalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>alcalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews alcalc</string>
+			<key>timeStartedRecording</key>
+			<real>674168353.96117401</real>
+			<key>timeStoppedRecording</key>
+			<real>674168359.39109898</real>
+			<key>title</key>
+			<string>Build for Previews alcalc</string>
+			<key>uniqueIdentifier</key>
+			<string>C76EC5EE-0BE9-4C38-A005-8E898687F59B</string>
+		</dict>
+		<key>E8681348-3F72-415A-8F49-13C94CC7CD69</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E8681348-3F72-415A-8F49-13C94CC7CD69.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>alcalc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>alcalc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews alcalc</string>
+			<key>timeStartedRecording</key>
+			<real>674168880.16424298</real>
+			<key>timeStoppedRecording</key>
+			<real>674168880.18257904</real>
+			<key>title</key>
+			<string>Build for Previews alcalc</string>
+			<key>uniqueIdentifier</key>
+			<string>E8681348-3F72-415A-8F49-13C94CC7CD69</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

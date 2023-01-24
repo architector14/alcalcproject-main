@@ -1,0 +1,48 @@
+{
+  "source": "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/alcalc/Menu.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Add Drink"
+      },
+      {
+        "comment": "",
+        "key": "X"
+      },
+      {
+        "comment": "",
+        "key": "Name"
+      },
+      {
+        "comment": "",
+        "key": "%"
+      },
+      {
+        "comment": "",
+        "key": "ml"
+      },
+      {
+        "comment": "",
+        "key": "Add"
+      },
+      {
+        "comment": "",
+        "key": "%@"
+      },
+      {
+        "comment": "",
+        "key": "Drink"
+      },
+      {
+        "comment": "",
+        "key": "Want to delete?"
+      },
+      {
+        "comment": "",
+        "key": "Delete"
+      }
+    ]
+  },
+  "version": 1
+}

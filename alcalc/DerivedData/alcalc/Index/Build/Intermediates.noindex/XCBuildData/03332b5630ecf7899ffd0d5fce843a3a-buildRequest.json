@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "e0d57d03f51f5204597340f4b5c9b60d29cf0ac921a3806fd3cc486b3313143d"
+    }
+  ],
+  "containerPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/alcalc.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData/alcalc/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData/alcalc/Index/Build/Products",
+      "derivedDataPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData/alcalc/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData/alcalc/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData/alcalc/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData/alcalc/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

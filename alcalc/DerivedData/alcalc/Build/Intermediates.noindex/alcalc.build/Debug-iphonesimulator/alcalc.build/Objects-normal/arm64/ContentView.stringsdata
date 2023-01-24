@@ -1,0 +1,48 @@
+{
+  "source": "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/alcalc/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Select Gender"
+      },
+      {
+        "comment": "",
+        "key": "Weight"
+      },
+      {
+        "comment": "",
+        "key": "Birthdate"
+      },
+      {
+        "comment": "",
+        "key": "Confirm"
+      },
+      {
+        "comment": "",
+        "key": "Message"
+      },
+      {
+        "comment": "",
+        "key": "You're too young"
+      },
+      {
+        "comment": "",
+        "key": "OK"
+      },
+      {
+        "comment": "",
+        "key": "Start Party"
+      },
+      {
+        "comment": "",
+        "key": "Settings"
+      },
+      {
+        "comment": "",
+        "key": "Version 1.0\n Popov edition"
+      }
+    ]
+  },
+  "version": 1
+}

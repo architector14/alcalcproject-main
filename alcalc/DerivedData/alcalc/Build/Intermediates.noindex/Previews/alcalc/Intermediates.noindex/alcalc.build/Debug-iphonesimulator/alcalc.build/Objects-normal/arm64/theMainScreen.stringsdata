@@ -1,0 +1,16 @@
+{
+  "source": "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/alcalc/theMainScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Menu"
+      },
+      {
+        "comment": "",
+        "key": "Drunk List"
+      }
+    ]
+  },
+  "version": 1
+}

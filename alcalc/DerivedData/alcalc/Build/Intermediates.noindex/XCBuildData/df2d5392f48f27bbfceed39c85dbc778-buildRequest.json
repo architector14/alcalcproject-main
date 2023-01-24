@@ -1,0 +1,104 @@
+{
+  "_buildCommand2" : {
+    "command" : "preview"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "e0d57d03f51f5204597340f4b5c9b60d29cf0ac921a3806fd3cc486b3313143d",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.4",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData/alcalc/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData/alcalc/Build/Products",
+          "derivedDataPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData/alcalc/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData/alcalc/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData/alcalc/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData/alcalc/Build/Intermediates.noindex/Previews/alcalc/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData/alcalc/Build/Intermediates.noindex/Previews/alcalc/Intermediates.noindex",
+              "SYMROOT" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData/alcalc/Build/Intermediates.noindex/Previews/alcalc/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "8FB2CC6C-9DBD-42CB-8C26-79103B11117A",
+              "TARGET_DEVICE_MODEL" : "iPhone13,2",
+              "TARGET_DEVICE_OS_VERSION" : "15.4",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/alcalc.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData/alcalc/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData/alcalc/Build/Products",
+      "derivedDataPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData/alcalc/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData/alcalc/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/tatiana/Documents/чудо-проект/firstBranch/alcalcproject/alcalc/DerivedData/alcalc/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone13,2",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.4",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "8FB2CC6C-9DBD-42CB-8C26-79103B11117A",
+          "TARGET_DEVICE_MODEL" : "iPhone13,2",
+          "TARGET_DEVICE_OS_VERSION" : "15.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
