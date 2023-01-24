@@ -2,7 +2,7 @@
 //  ListOfDrinked.swift
 //  alcalc
 //
-//  Created by Boss on 09.05.2022.
+//  Created by Artur on 09.05.2022.
 //
 
 import SwiftUI
