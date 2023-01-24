@@ -2,7 +2,7 @@
 //  Progress_Screen.swift
 //  alcalc
 //
-//  Created by Komarzz on 07.05.2022.
+//  Created by Artur on 07.05.2022.
 //
 
 import SwiftUI
