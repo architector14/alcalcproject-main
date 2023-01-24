@@ -2,7 +2,7 @@
 //  Menu.swift
 //  alcalc
 //
-//  Created by Komarzz on 23.04.2022.
+//  Created by Artur on 23.04.2022.
 //
 
 import SwiftUI
